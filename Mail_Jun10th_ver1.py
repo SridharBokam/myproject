@@ -1,6 +1,6 @@
 import sys  
 import os
-#import base64
+import base64
 import shutil
 import datetime
 import smtplib
